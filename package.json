@@ -1,0 +1,21 @@
+{
+  "name": "timekoto",
+  "version": "1.0.2",
+  "description": "timekoto is a versatile utility package for Node.js that simplifies timestamp conversion based on the provided prop!",
+  "main": "timekoto.js",
+  "keywords": [
+    "timestamp",
+    "time",
+    "seconds",
+    "milliseconds",
+    "date",
+    "utility",
+    "conversion",
+    "time measurement",
+    "prop-based",
+    "time format"
+  ],
+  "author": "abdullahwins",
+  "repository": "https://github.com/abdullahwins/timekoto",
+  "license": "MIT"
+}
