@@ -1,8 +1,8 @@
 {
   "name": "timekoto",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "timekoto is a versatile utility package for Node.js that simplifies timestamp conversion based on the provided prop!",
-  "main": "timekoto.js",
+  "main": "Timekoto.js",
   "keywords": [
     "timestamp",
     "time",

@@ -8,20 +8,20 @@ Timekoto is an npm package that provides a utility function for generating times
 To install Timekoto, you can use npm or yarn:
 
 ```bash
-npm install Timekoto
+npm install timekoto
 
 # or
 
-yarn add Timekoto
+yarn add timekoto
 ```
 ````
 
 ## Usage
 
-Import the `Timekoto` function from the package:
+Import the `timekoto` function from the package:
 
 ```javascript
-const { Timekoto } = require("Timekoto");
+const { Timekoto } = require("timekoto");
 ```
 
 Then, call the `Timekoto` function and pass either `'s'` for seconds or `'m'` for milliseconds:
